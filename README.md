@@ -1,21 +1,27 @@
 # Machine Learning
-- prediction electrical activity of the brain between the people drink alcohol and have a depression
+- prediction and fit the molde ML like:
+- LinearRegression
+- Ridge
+- Lasso
+- ElasticNet
+- KNeighborsRegressor
+- MLPRegressor
+- ExtraTreesRegressor
+- RandomForestRegressor
+- GradientBoostingRegressor
+- XGBRegressor
 
 
 ## Technology Stack and Features
-- 🤖 [**MLops**](https://cloud.google.com/discover/what-is-mlops?hl=en) for deployment and ongoing monitoring and maintenance
-    - 📊 [MLflow](https://mlflow.org) for Managing the Machine Learning Lifecycle
-    - 🌐 [kubeflow](https://www.kubeflow.org) for machine learning and MLOps on Kubernetes introduced by Google.
-    - 📡 [Kubernetes](https://kubernetes.io) software deployment, scaling, and management
-    - 🐋 [Docker Compose](https://www.docker.com) for development and production.
-- ⚡ [**FastAPI**](https://fastapi.tiangolo.com) for the Python backend API.
+- 🤖 [**ML**]
+    - 📊 [LinearRegression]
+    - 🌐 [Ridge]
+    - 📡 [Lasso]
+    - 🐋 [XGBRegressor]
+- ⚡ [**FastAPI**]
     - 🧰 [SQLModel](https://sqlmodel.tiangolo.com) for the Python SQL database interactions (ORM).
     - 🔍 [Pydantic](https://docs.pydantic.dev), used by FastAPI, for the data validation and settings management.
     - 💾 [PostgreSQL](https://www.postgresql.org) as the SQL database.
-- 🚀 [React](https://react.dev) for the frontend.
-    - 💃 Using TypeScript, hooks, Vite, and other parts of a modern frontend stack.
-    - 🎨 [Chakra UI](https://chakra-ui.com) for the frontend components.
-    - 🧪 [Playwright](https://playwright.dev) for End-to-End testing.
 
 
 ### Model corr 
