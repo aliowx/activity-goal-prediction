@@ -24,9 +24,9 @@
 
 
 
-### Dashboard Login
+### data
 
-![API docs](photo/app_ML.png)
+![API docs](data/data.png)
 
 
 ### Interactive API Documentation
