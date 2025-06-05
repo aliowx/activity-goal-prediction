@@ -1,13 +1,22 @@
 # Machine Learning
-- prediction electrical activity of the brain between the people drink alcohol and have a depression
+- predicting the important model  like
+- LinearRegression
+- Ridge
+- ElasticNet
+- KNeighborsRegressor
+- MLPRegressor
+- ExtraTreesRegressor
+- RandomForestRegressor
+- GradientBoostingRegressor
+- XGBRegressor
 
 
 ## Technology Stack and Features
-- 🤖 [**MLops**](https://cloud.google.com/discover/what-is-mlops?hl=en) for deployment and ongoing monitoring and maintenance
-    - 📊 [MLflow](https://mlflow.org) for Managing the Machine Learning Lifecycle
-    - 🌐 [kubeflow](https://www.kubeflow.org) for machine learning and MLOps on Kubernetes introduced by Google.
-    - 📡 [Kubernetes](https://kubernetes.io) software deployment, scaling, and management
-    - 🐋 [Docker Compose](https://www.docker.com) for development and production.
+- 🤖 [**ML**](https://cloud.google.com/discover/what-is-mlops?hl=en) for modeling
+    - 📊 [XGBRegressor]
+    - 🌐 [LinearRegression]
+    - 📡 [ElasticNet]
+    - 🐋 [KNeighborsRegressor]
 - ⚡ [**FastAPI**](https://fastapi.tiangolo.com) for the Python backend API.
     - 🧰 [SQLModel](https://sqlmodel.tiangolo.com) for the Python SQL database interactions (ORM).
     - 🔍 [Pydantic](https://docs.pydantic.dev), used by FastAPI, for the data validation and settings management.
