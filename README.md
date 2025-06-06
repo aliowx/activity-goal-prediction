@@ -24,9 +24,9 @@
     - 💾 [PostgreSQL](https://www.postgresql.org) as the SQL database.
 
 
-### Model corr 
+### R2 model
 
-![API docs](notebook/correlation_matrix.png)
+![API docs](data/r2_comparison.png)
 
 
 ### data
