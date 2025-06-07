@@ -1,11 +1,11 @@
 Feature,SHAP Importance
-steps,24325.264
-mvpa_mins,660.2554
-perception,376.9963
-weight,303.3669
-riskfactor_hypertension,78.56808
-treatment,60.18904
-beta_blocker,55.039368
-angiotensin2_receptor_blocker,23.563093
-riskfactor_smoking,7.255195
-acetylsalicylic_acid,5.0652742
+steps,24030.656
+mvpa_mins,689.78467
+perception,372.87567
+height,247.00275
+weight,207.01938
+BMI,115.51636
+riskfactor_hypertension,77.98721
+treatment,16.110693
+partner_status,8.5766735
+acetylsalicylic_acid,1.0061713
