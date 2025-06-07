@@ -1,0 +1,11 @@
+Feature,SHAP Importance
+mvpa_mins,631.5844
+weight,12.269182
+steps,10.527856
+perception,5.241895
+riskfactor_hypertension,0.88533896
+BMI,0.7061402
+height,0.6540849
+partner_status,0.55729705
+treatment,0.23168151
+acetylsalicylic_acid,0.16386
