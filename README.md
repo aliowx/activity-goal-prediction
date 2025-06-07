@@ -15,7 +15,7 @@ It uses structured health and activity data to build, evaluate, and interpret ML
 ---
 ### feature importance
 
-![API docs](data/shap_feature_importance_steps_goal.png)
+![API docs](photo/shap_feature_importance_steps_goal.png)
 
 ## 🗂️ Project Structure
 
