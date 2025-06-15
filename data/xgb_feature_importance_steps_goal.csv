@@ -1,4 +1,11 @@
 Feature,Importance
-steps,0.958501
-perception,0.022996314
-mvpa_mins,0.018502599
+steps,0.8479018
+cholesterol_lowering_med,0.031026602
+BMI,0.01985092
+mvpa_mins,0.018150536
+ACE_inhibitor,0.01667428
+height,0.01627482
+educational_status,0.015667146
+weight,0.013458577
+treatment,0.011186972
+riskfactor_dyslipidemia,0.009808371
