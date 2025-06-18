@@ -1,21 +1,21 @@
 ,CV_R2,Val_R2,Val_MAE,Val_RMSE,Best_Params
-Linear_steps_goal,0.9634494149417512,0.9660472927215308,3926.2285743758775,5086.936782947911,{}
-Ridge_steps_goal,0.9636516271654146,0.9663138993980006,3908.333030365473,5066.925357273496,{'regressor__alpha': 1.0}
-Lasso_steps_goal,0.9638264971718371,0.9662067998796412,3915.3903365725096,5074.973700815763,{'regressor__alpha': 10.0}
-ElasticNet_steps_goal,0.9636903592267828,0.9666576941231797,3887.620207928894,5041.002950099737,"{'regressor__alpha': 0.01, 'regressor__l1_ratio': 0.3}"
-KNN_steps_goal,0.8381012771275161,0.8759325882062472,7375.842550134948,9724.068222435038,"{'regressor__n_neighbors': 9, 'regressor__p': 2, 'regressor__weights': 'distance'}"
-MLP_steps_goal,0.9469669154706158,0.9547237545403904,4791.931116037468,5874.275878445007,"{'regressor__alpha': 0.0001, 'regressor__hidden_layer_sizes': (50, 50), 'regressor__learning_rate_init': 0.1}"
-ExtraTrees_steps_goal,0.9595326952945216,0.9656598301954843,3996.0768190013478,5115.880072302793,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 10, 'regressor__n_estimators': 300}"
-RandomForest_steps_goal,0.958148394025155,0.9596879732849555,4269.068830114856,5542.89245700307,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 10, 'regressor__n_estimators': 100}"
-GradientBoosting_steps_goal,0.9564299404505062,0.9650760364199665,4115.862889082122,5159.182600433371,"{'regressor__learning_rate': 0.01, 'regressor__max_depth': 3, 'regressor__n_estimators': 300}"
-XGBoost_steps_goal,0.9545091475866906,0.9623665943360864,4064.1458387586804,5355.572426295798,"{'regressor__colsample_bytree': 1.0, 'regressor__learning_rate': 0.1, 'regressor__max_depth': 3, 'regressor__n_estimators': 50, 'regressor__subsample': 0.6}"
-Linear_mvpa_mins_goal,0.9821590159004124,0.9800786660521101,83.25074646542659,111.91371724584589,{}
-Ridge_mvpa_mins_goal,0.9821795301748011,0.9799547722758009,83.31373848033049,112.26118198113086,{'regressor__alpha': 1.0}
-Lasso_mvpa_mins_goal,0.9823385293835194,0.9801355292482313,82.26396581034427,111.7538805770643,{'regressor__alpha': 1.0}
-ElasticNet_mvpa_mins_goal,0.9821817157778747,0.9799444966422709,83.32552249675041,112.28995209501825,"{'regressor__alpha': 0.01, 'regressor__l1_ratio': 0.7}"
-KNN_mvpa_mins_goal,0.8932519388463414,0.9122962092521454,161.9229730486054,234.81903327563694,"{'regressor__n_neighbors': 11, 'regressor__p': 2, 'regressor__weights': 'distance'}"
-MLP_mvpa_mins_goal,0.9734716619032204,0.970014124040615,95.7659471747097,137.30377676709222,"{'regressor__alpha': 0.0001, 'regressor__hidden_layer_sizes': (50, 50), 'regressor__learning_rate_init': 0.01}"
-ExtraTrees_mvpa_mins_goal,0.9821379272983941,0.9749525480980205,91.41226332473008,125.48906659586089,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 100}"
-RandomForest_mvpa_mins_goal,0.9805171948166633,0.9719273941226204,87.50729060318423,132.85119876246262,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 50}"
-GradientBoosting_mvpa_mins_goal,0.979820904592566,0.9726245365766344,87.65066036897498,131.1912449121048,"{'regressor__learning_rate': 0.05, 'regressor__max_depth': 3, 'regressor__n_estimators': 100}"
-XGBoost_mvpa_mins_goal,0.98004328299183,0.9740320083710173,86.8684210035536,127.77423649968622,"{'regressor__colsample_bytree': 1.0, 'regressor__learning_rate': 0.05, 'regressor__max_depth': 3, 'regressor__n_estimators': 100, 'regressor__subsample': 0.6}"
+Linear_steps_goal,0.9627675175112091,0.9656976932608403,3943.680292762516,5113.058940000268,{}
+Ridge_steps_goal,0.9627992736269162,0.9659369003426339,3934.6487870944625,5095.199796136341,{'regressor__alpha': 1.0}
+Lasso_steps_goal,0.9628386716155724,0.9660075181390373,3925.616731152697,5089.915508084877,{'regressor__alpha': 10.0}
+ElasticNet_steps_goal,0.962803195741882,0.9661077220943063,3928.7177238428453,5082.407876061889,"{'regressor__alpha': 0.01, 'regressor__l1_ratio': 0.5}"
+KNN_steps_goal,0.8586488415022948,0.906962148928682,5976.737476601459,8420.715047704674,"{'regressor__n_neighbors': 7, 'regressor__p': 2, 'regressor__weights': 'distance'}"
+MLP_steps_goal,0.9530084963229501,0.9558228748631763,4549.466875307516,5802.5362343585175,"{'regressor__alpha': 0.001, 'regressor__hidden_layer_sizes': (100, 50), 'regressor__learning_rate_init': 0.01}"
+ExtraTrees_steps_goal,0.9594248110253021,0.9655759135418813,4021.128382133263,5122.127065036337,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 10, 'regressor__n_estimators': 300}"
+RandomForest_steps_goal,0.9573518675047474,0.9599947228724334,4228.980169368281,5521.763193625101,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 300}"
+GradientBoosting_steps_goal,0.9569440026288806,0.9642282473882426,4164.401521844823,5221.427416771926,"{'regressor__learning_rate': 0.01, 'regressor__max_depth': 3, 'regressor__n_estimators': 300}"
+XGBoost_steps_goal,0.9558268664021774,0.9631825082567852,3987.0865342881943,5297.198348476474,"{'regressor__colsample_bytree': 1.0, 'regressor__learning_rate': 0.1, 'regressor__max_depth': 3, 'regressor__n_estimators': 50, 'regressor__subsample': 1.0}"
+Linear_mvpa_mins_goal,0.981817676864414,0.9800499916230754,81.45884379608312,111.9942316334523,{}
+Ridge_mvpa_mins_goal,0.981823708853784,0.9799333892512997,82.07196099624876,112.32104270725353,{'regressor__alpha': 1.0}
+Lasso_mvpa_mins_goal,0.9821965659399842,0.9801973273102961,82.83816847722912,111.57991286971696,{'regressor__alpha': 10.0}
+ElasticNet_mvpa_mins_goal,0.9818273383132878,0.9799266832362293,82.11875213638652,112.33980929657167,"{'regressor__alpha': 0.01, 'regressor__l1_ratio': 0.7}"
+KNN_mvpa_mins_goal,0.863657435180029,0.8963709588862058,197.09622442270367,255.24947243007657,"{'regressor__n_neighbors': 5, 'regressor__p': 2, 'regressor__weights': 'distance'}"
+MLP_mvpa_mins_goal,0.9758788122569809,0.9763807255912041,90.23236734200015,121.85893808370162,"{'regressor__alpha': 0.01, 'regressor__hidden_layer_sizes': (100,), 'regressor__learning_rate_init': 0.01}"
+ExtraTrees_mvpa_mins_goal,0.9820011241073028,0.9738750705236792,93.77765494660663,128.1597574145293,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 300}"
+RandomForest_mvpa_mins_goal,0.980344557121027,0.9722329986606518,86.69104417255751,132.12609632820232,"{'regressor__max_depth': 5, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 50}"
+GradientBoosting_mvpa_mins_goal,0.9795949847427996,0.9712491101026759,89.99136728637677,134.44657993433106,"{'regressor__learning_rate': 0.1, 'regressor__max_depth': 3, 'regressor__n_estimators': 50}"
+XGBoost_mvpa_mins_goal,0.9801454671742394,0.9709861487428026,90.242099931505,135.0600180563873,"{'regressor__colsample_bytree': 1.0, 'regressor__learning_rate': 0.1, 'regressor__max_depth': 3, 'regressor__n_estimators': 50, 'regressor__subsample': 0.8}"
