@@ -17,6 +17,11 @@ The primary goal is to provide **robust predictive models** that can help airlin
 
 ---
 
+
+![API docs](photo/distribution_targets.png)
+
+
+
 ## Pipeline
 
 1. **Data Loading & Inspection**  
