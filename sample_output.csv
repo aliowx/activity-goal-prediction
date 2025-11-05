@@ -1,5 +1,0 @@
-id,Question,Options,Answer,Analysis,Category,Subject,Course_Stage,Knowledge,Source,Processing_Date
-q123456,Solve the linear equation \( 2x + 3 = 7 \).,"A) \( x = 1 \)
-B) \( x = 2 \)
-C) \( x = 3 \)
-D) \( x = 4 \)",B,"To solve the equation \( 2x + 3 = 7 \), subtract 3 from both sides: \( 2x = 4 \). Then, divide both sides by 2: \( x = 2 \). Thus, the correct answer is \( x = 2 \).",Science,Mathematics,University,Linear Algebra,Sample Educational Website,2025-06-12
