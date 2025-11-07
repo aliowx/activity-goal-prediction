@@ -1,0 +1,4 @@
+Model,Test AUC
+Decision Tree,0.6502
+k-NN,0.6022
+Logistic Regression,0.66
